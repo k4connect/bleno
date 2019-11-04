@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/k4connect/bleno"
+    "url": "https://github.com/sandeepmistry/bleno"
   },
   "keywords": [
     "BLE",
@@ -28,7 +28,10 @@
     "Bluetooth Smart",
     "peripheral"
   ],
-  "author": "K4Connect, Inc.",
+  "author": "Sandeep Mistry <sandeep.mistry@gmail.com>",
+  "maintainers": [
+    "Jacob Rosenthal"
+  ],
   "license": "MIT",
   "readmeFilename": "README.md",
   "devDependencies": {
